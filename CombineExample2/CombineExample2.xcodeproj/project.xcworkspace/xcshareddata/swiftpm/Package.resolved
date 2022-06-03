@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "navajo-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Wistas23/Navajo-Swift.git",
+      "state" : {
+        "revision" : "193175156aecc6a6fe2f5be75fbd17baed899d86",
+        "version" : "2.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
